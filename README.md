@@ -13,3 +13,5 @@ Para saber que o comando foi executado com sucesso, deve ser exibida a seguinte 
 ```shell
 Full Cycle Rocks!!
 ``` 
+
+A imagem docker pode ser encontrada no `Docker Hub` no seguinte endereço: https://hub.docker.com/r/zoelner/fullcycle
